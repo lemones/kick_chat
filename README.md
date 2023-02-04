@@ -2,4 +2,4 @@
 
 Connect to kick chat
 
-test
+Log file is ... large...
